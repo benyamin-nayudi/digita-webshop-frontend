@@ -1,8 +1,9 @@
+import Loading from "./components/loading/Loading";
 
 function App() {
   return (
     <div >
-      <h1>Hello Dream Team</h1>
+      <Loading />
     </div>
   );
 }
